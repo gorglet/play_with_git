@@ -23,3 +23,7 @@ def function_two():
 
 #change number 5
 "Here I might change a function to hopefully make my code work better.."
+
+
+#change number 6
+"Ok now I've pushed it and shared it on github. Clever me! Let's see if I can add this change.."
